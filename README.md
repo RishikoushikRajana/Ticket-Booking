@@ -8,4 +8,4 @@ An Online Ticket Booking Website Project using HTML, CSS, Tailwind CSS & JavaScr
 https://rishikoushikrajana.github.io/Ticket-Booking/
 
 ## Screenshot
-<img src="https://ibb.co/gZBnkGxF">
+https://ibb.co/gZBnkGxF
